@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+.active{
+    font-size: 15px;
+    color: white;
+    font-weight: bolder;
+}
+
+.twitterlogo {
+    display: block;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+}
+
+.instagramlogo {
+    display: block;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+}
